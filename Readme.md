@@ -8,5 +8,6 @@ Steps:
 3. Upon a modification in the folder the file_mover will work.
 4. You can stop the program by using 'control+C' on terminal for mac or 'ctrl+C' on the command prompt for Windows. 
 
-Note: Make changes to the folder like cutting/copying/deleting/etc. in the designated folder.
-	  Only after a change is detected in the folder, then only the mover works.
+* Note:*
+	Make changes to the folder like cutting/copying/deleting/etc. in the designated folder.
+	Only after a change is detected in the folder, then only the mover works.
