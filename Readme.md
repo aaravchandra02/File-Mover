@@ -1,4 +1,4 @@
-## File Mover
+# File Mover
 This repository contains an executable file that can be executed using the command line interface.
 
 Steps:
