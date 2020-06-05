@@ -1,4 +1,4 @@
-# File Mover
+# File Mover :love_you_gesture:
 
 This is a tool to arrange various types of files in your designated folder based on their type.
 The current version has built in support for these various file types:
