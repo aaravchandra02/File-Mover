@@ -1,7 +1,7 @@
 # File Mover
 
-This is a tool to arrange the Files in your designated folder based on their type.
-The current version has built in support for various file formats like:
+This is a tool to arrange various types of files in your designated folder based on their type.
+The current version has built in support for these various file types:
 
 - Compressed Files
 
@@ -13,7 +13,7 @@ The current version has built in support for various file formats like:
 
 - Installer Files
 
-** Download the file in the 'dist' fodler and run it following the steps below.**
+*** Download the file in the 'dist' fodler and run it following the steps below ***
 
 This repository contains an executable file that can be executed using the command line interface.
 
