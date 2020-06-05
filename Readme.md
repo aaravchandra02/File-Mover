@@ -13,7 +13,7 @@ The current version has built in support for various file formats like:
 
 - Installer Files
 
-**bold** Download the file in the 'dist' fodler and run it following the steps below.
+** Download the file in the 'dist' fodler and run it following the steps below.**
 
 This repository contains an executable file that can be executed using the command line interface.
 
