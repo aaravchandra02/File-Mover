@@ -5,19 +5,19 @@ The current version has built in support for these various file types:
 
 - Compressed Files
 
-- Video Files
+- Videos
 
-- Document Files
+- Documents
 
 - Images
 
-- Installer Files
+- Installation Files
 
-*** Download the file in the 'dist' fodler and run it following the steps below ***
+#### Download the file in the 'dist' fodler and run it following the steps below.
 
 This repository contains an executable file that can be executed using the command line interface.
 
-Steps:
+## Steps:
 
 1. Copy the path of the folder where you want to run this file mover. 
 2. Double clicking the executable file. It will open terminal on Macs and Command Prompt on Windows.
